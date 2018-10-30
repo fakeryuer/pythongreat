@@ -1,0 +1,6 @@
+ERROR:root:fakeryu
+root--2018-10-13 12:08:10,382--ERROR--fakeryu
+root--2018-10-13 12:13:01,135--ERROR--fakeryu
+root--2018-10-13 12:13:01,135--ERROR--[Errno 2] No such file or directory: 'notexist.txt'
+root--2018-10-13 12:13:54,605--ERROR--fakeryu
+root--2018-10-13 12:13:54,605--ERROR--[Errno 2] No such file or directory: 'notexist.txt'

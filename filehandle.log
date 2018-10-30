@@ -1,0 +1,15 @@
+-----
+文件名：root
+时间：2018-10-13 12:40:01,784
+错误等级：ERROR
+错误信息：[Errno 2] No such file or directory: 'notexist.txt'
+-----
+文件名：3.41-logging模块化组件.py
+时间：2018-10-13 12:41:10,095
+错误等级：ERROR
+错误信息：[Errno 2] No such file or directory: 'notexist.txt'
+-----
+出错文件名：3.41-logging模块化组件.py
+时间：2018-10-13 12:41:26,951
+错误等级：ERROR
+错误信息：[Errno 2] No such file or directory: 'notexist.txt'
